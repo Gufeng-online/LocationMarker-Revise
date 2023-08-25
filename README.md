@@ -3,7 +3,6 @@
 这是基于Fallen-Breath的[LocationMarker](https://github.com/TISUnion/LocationMarker)修改版本
 
 在原版中，添加的坐标点展示的信息不够全面，且功能只有传送，在生存模式中可不能传送，
-
 这就导致了，生存模式中使用的不便
 
 ![2023-08-25_23.13.51.png](https://s2.loli.net/2023/08/25/ecUArzPTGZngR93.png)
