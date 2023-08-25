@@ -2,6 +2,10 @@
 
 这是基于[LocationMarker](https://github.com/TISUnion/LocationMarker)的修改版本
 
-原版的坐标展示少了点实用性
+我觉得原版的展示少了些实用性，展示的不全面，功能不丰富
 
-而我 修改了这一点，让信息展示更加丰富
+![2023-08-25_23.13.51.png](https://s2.loli.net/2023/08/25/ecUArzPTGZngR93.png)
+
+所以我修改了这一点，让信息展示更加全面，功能更加丰富
+
+![2023-08-25_23.07.23.png](https://s2.loli.net/2023/08/25/SYh2IbjkA6F7WqV.png)
