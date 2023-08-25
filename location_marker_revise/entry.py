@@ -95,9 +95,9 @@ def add_map(location:Location):
 	
 def set_dimension_text(location: Location):
 	if location.dim == 0:
-		return RText('地狱[{},{},{}]'.format(int(location.pos.x/8),int(location.pos.y),int(location.pos.z/8)),color=RColor.red)
+		return RText('地狱[{}, {}, {}]'.format(int(location.pos.x/8),int(location.pos.y),int(location.pos.z/8)),color=RColor.red)
 	elif location.dim==-1:
-		return RText('主世界[{},{},{}]'.format(int(location.pos.x*8),int(location.pos.y),int(location.pos.z*8)),color=RColor.gold)
+		return RText('主世界[{}, {}, {}]'.format(int(location.pos.x*8),int(location.pos.y),int(location.pos.z*8)),color=RColor.gold)
 	else:
 		return RText(' ')
 	
@@ -112,7 +112,7 @@ def print_location(location: Location, printer: Callable[[RTextBase], Any], *, s
 		name_text.h('点击以显示详情').c(RAction.run_command, '{} info {}'.format(constants.PREFIX, location.name)),
 		'  ',
 		get_dimension_text(location.dim),
-		'[{},{},{}]'.format(int(location.pos.x),int(location.pos.y),int(location.pos.z),location.dim),
+		'[{}, {}, {}]'.format(int(location.pos.x),int(location.pos.y),int(location.pos.z),location.dim),
 		'  ',
 		add_map(location),
 		' ',
