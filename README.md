@@ -1,6 +1,6 @@
 # LocationMarker-Revise
 
-这是基于[LocationMarker](https://github.com/TISUnion/LocationMarker)的修改版本
+这是基于Fallen-Breath的[LocationMarker](https://github.com/TISUnion/LocationMarker)的修改版本
 
 我觉得原版的展示少了些实用性，展示的不全面，功能不丰富
 
