@@ -15,7 +15,7 @@
 
 还添加了主世界对应的地狱坐标，让你可以在任何维度，都可以轻松找到目标位置
 
-![2023-08-25_23.31.03.png](https://s2.loli.net/2023/08/25/vdwxgeDtQBUKH7y.png)
+![2023-08-26_00.12.40.png](https://s2.loli.net/2023/08/26/6G59WQuzfvlpXVJ.png)
 
 ## 前置
 
