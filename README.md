@@ -9,3 +9,8 @@
 所以我修改了这一点，让信息展示更加全面，功能更加丰富
 
 ![2023-08-25_23.07.23.png](https://s2.loli.net/2023/08/25/SYh2IbjkA6F7WqV.png)
+
+# 前置
+
+- [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) >= 2.0.0
+- [Minecraft Data API](https://github.com/MCDReforged/MinecraftDataAPI)
