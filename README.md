@@ -10,7 +10,7 @@
 
 ![2023-08-25_23.07.23.png](https://s2.loli.net/2023/08/25/SYh2IbjkA6F7WqV.png)
 
-# 前置
+## 前置
 
 - [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) >= 2.0.0
 - [Minecraft Data API](https://github.com/MCDReforged/MinecraftDataAPI)
