@@ -8,7 +8,7 @@
 
 所以我修改了这一点，让信息展示更加全面，功能更加丰富
 
-![2023-08-25_23.07.23.png](https://s2.loli.net/2023/08/25/SYh2IbjkA6F7WqV.png)
+![2023-08-25_23.31.03.png](https://s2.loli.net/2023/08/25/vdwxgeDtQBUKH7y.png)
 
 ## 前置
 
